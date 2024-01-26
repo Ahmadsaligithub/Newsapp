@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Herman Mostert",
+      "title": "5 talking points | SA v India: Kohli equals world record as Proteas reach lowest World Cup ebb",
+      "description": "Herman Mostert highlights FIVE talking points after South Africa's 243-run Cricket World Cup loss to India at Eden Gardens.",
+      "url": "https://www.news24.com/sport/cricket/worldcup/5-talking-points-sa-v-india-kohli-equals-world-record-as-proteas-reach-lowest-world-cup-ebb-20231106",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9522/12ee3c87a1414b3baa0444e5a59fff3c.jpg",
+      "publishedAt": "2023-11-06T11:13:55",
+      "content": "Kohli equals world record\r\nIndian captain Virat Kohli led from the front with a workmanlike century to steer the hosts to a commanding 326/5 off their allotted 50 overs.\r\nIt was Kohli's 49th ODI cent… [+82 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Watch Bangladesh wicketkeeper's 'incredible' flying catch",
+      "description": "Bangladesh wicketkeeper Mushfiqur Rahim makes a spectacular flying catch to dismiss Sri Lanka opener Kusal Perera at the Cricket World Cup.",
+      "url": "http://www.bbc.co.uk/sport/av/cricket/67331571",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12B1C/production/_131627567_mmcriwcpererawicketstill.00_00_24_15.still002.jpg",
+      "publishedAt": "2023-11-06T09:37:18.3415193Z",
+      "content": "Bangladesh wicketkeeper Mushfiqur Rahim makes a spectacular flying catch to dismiss Sri Lanka opener Kusal Perera at the Cricket World Cup.\r\nFOLLOW LIVE: Bangladesh v Sri Lanka\r\nAvailable to UK users… [+5 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "Video shows India's iconic monument shrouded in smog  | CNN",
+      "description": "The air pollution in India is forcing the primary schools to close, cricket players to wear masks in training and many people to stay indoors. CNN’s Michael Holmes has more.",
+      "url": "https://www.cnn.com/videos/world/2023/11/06/india-smog-pollution-icu-taj-mahal-contd-holmes-pkg-hnk-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231106155322-screengrab-taj-mahal.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-06T09:21:41Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "World Cup: Bangladesh v Sri Lanka - clips, radio & text",
+      "description": "Follow live text, in-play video clips and radio commentary as Bangladesh play Sri Lanka in Delhi in the Cricket World Cup.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/66859033",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "publishedAt": "2023-11-06T08:37:20.0757375Z",
+      "content": "Bangladesh: Liton Das, Tanzid Hasan, Najmul Hossain Shanto, Shakib Al Hasan (c), Mushfiqur Rahim (wk), Mahmudullah, Towhid Hridoy, Mehidy Hasan, Taskin Ahmed, Shoriful Islam, Tanzim Hasan. \r\nSri Lank… [+217 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
